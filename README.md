@@ -4,4 +4,4 @@ This is a poll bot create with python and flask
 `$poll {question}?/option1/option2/.../option n`
 ## example
 `$poll what should we eat? /Mcdonald/KFC/Hot pot/Sushi`
-![poll example](pollbot_example)
+![poll example](pollbot_example.png)
