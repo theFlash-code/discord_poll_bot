@@ -44,5 +44,5 @@ async def on_message(message):
       await last_message.add_reaction(emojis[i])
 
 keep_alive()
-  
+
 client.run(os.environ['TOKEN'])
